@@ -1,2 +1,4 @@
 # hello-world
-just a toy program
+Hi.everyone!
+
+I'm codingTheCodeoffe,
